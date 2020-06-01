@@ -18,6 +18,7 @@ $grey-dim     : #666;
 $black-light  : #555;
 $black-dim    : #333;
 $black-deep   : #222;
+$teal         : #66b2b2;
 $red          : #ff2a2a;
 $blue-bright  : #87daff;
 $blue         : #0684bd;
@@ -156,11 +157,11 @@ $code-background                : $gainsboro;
 $btn-font-weight                : normal;
 
 $btn-default-radius             : 0;
-$btn-default-bg                 : $black-deep;
+$btn-default-bg                 : $teal;
 $btn-default-color              : white;
 $btn-default-font-size          : 14px;
 $btn-default-border-width       : 2px;
-$btn-default-border-color       : $black-deep;
+$btn-default-border-color       : $teal;
 $btn-default-hover-bg           : white;
 $btn-default-hover-color        : $black-deep;
 $btn-default-hover-border-color : $black-deep;
@@ -207,7 +208,7 @@ $gap-between-main-and-footer    : 100px;
 // Headband
 // --------------------------------------------------
 $headband-height                : 3px;
-$headband-bg                    : $black-deep;
+$headband-bg                    : white;
 
 
 
@@ -221,7 +222,7 @@ $head-bg                        : transparent;
 $site-meta-text-align           : center;
 $brand-color                    : white;
 $brand-hover-color              : white;
-$brand-bg                       : $black-deep;
+$brand-bg                       : $teal;
 
 $logo-font-size                 : 20px;
 $logo-font-size                 : if(type-of(jekyll-config('font.logo.size')) == 'number', jekyll-config('font.logo.size') + px, $logo-font-size);
@@ -232,7 +233,7 @@ $subtitle-color                 : $grey-dark;
 
 // Menu
 $menu-link-border               : transparent;
-$menu-link-hover-border         : $black-deep;
+$menu-link-hover-border         : $teal;
 
 
 
@@ -258,7 +259,7 @@ $posts-collapse-left-mobile     : 5px;
 
 $read-more-color                : white;
 $read-more-font-size            : 14px;
-$read-more-bg-color             : $black-deep;
+$read-more-bg-color             : $teal;
 $read-more-border-radius        : 0;
 
 
@@ -314,7 +315,7 @@ $b2t-position-bottom-on       : 19px;
 $b2t-position-right           : 30px;
 $b2t-font-size                : 12px;
 $b2t-color                    : white;
-$b2t-bg-color                 : $black-deep;
+$b2t-bg-color                 : $teal;
 
 // full-image
 $full-image-width             : 110%;
