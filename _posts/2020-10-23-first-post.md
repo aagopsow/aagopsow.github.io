@@ -32,7 +32,7 @@ Finally, this will not become a space for commentary on the
 day-to-day happenings in the world -- there is no shortage of such
 opinions already!
 
-Posts will appear regularly on Monday mornings starting November 2nd. 
+Posts will appear regularly on Monday mornings. 
 
 Enjoy!
 
